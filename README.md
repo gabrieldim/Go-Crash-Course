@@ -1,5 +1,5 @@
 ## Crash Course about the programming language Go / Golang.
-I have covered some of the most important topics with you if you want to learn or become a Go developer. </br>
+In this course I have covered some important concepts and topics in programming. So, if you want to learn or become a Go developer you can start from here. 😊 </br>
 If you have any questions about the topics from this course feel about to contact me.
 </br>
 

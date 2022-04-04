@@ -5,5 +5,3 @@ If you have any questions about the topics from this course feel free to contact
 
 > Inspired by: [Brad Traversy](https://github.com/bradtraversy)
 </br>
-
-![Golang Logo](https://golang.org/lib/godoc/images/go-logo-blue.svg "Golang Logo")
